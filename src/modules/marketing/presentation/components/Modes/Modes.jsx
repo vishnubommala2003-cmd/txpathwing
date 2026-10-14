@@ -1,12 +1,12 @@
 import React from "react";
-import "./modes.css";
+
 import {
   Video,
   Building2,
   MonitorSmartphone,
 } from "lucide-react";
 
-import "./modes.css";
+import "./Modes.css";
 
 const benefits = [
   {
